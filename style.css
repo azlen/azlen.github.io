@@ -1,0 +1,30 @@
+html {
+	padding: 40px;
+
+	font-family: consolas, monaco, courier, "courier new", fixed-width;
+}
+
+body {
+	max-width: 500px;
+}
+
+* {
+	-webkit-font-smoothing: antialiased;
+
+	line-height: 1.5;
+}
+
+h1, h2, h3 {
+	margin-top: 0;
+}
+
+h1 { font-size: 20pt }
+h2 { font-size: 13pt; }
+
+a {
+	color: #ff0077;
+}
+
+a:visited {
+	color: #dd0055;
+}
