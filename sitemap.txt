@@ -1,0 +1,17 @@
+/
+/about
+/about/contact
+/about/palindrome
+/blog
+/blog/ld40_post_mortem
+/projects
+/projects/azlen.me
+/projects/cthulhu_tarot
+/projects/embol
+/projects/necronimously_evil
+/projects/nymero
+/projects/perceptual_shift
+/random
+/sitemap
+/writing
+/writing/untitled_story
