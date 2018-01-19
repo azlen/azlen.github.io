@@ -1,10 +1,17 @@
 html {
-	padding: 40px;
+	padding: 30px 15px;
 
 	font-family: consolas, monaco, courier, "courier new", fixed-width;
 }
 
 body {
+	max-width: 500px;
+}
+
+img {
+	display: block;
+	margin: auto;
+	width: 100%;
 	max-width: 500px;
 }
 
@@ -22,3 +29,13 @@ h2 { font-size: 13pt; }
 a { color: #ff0077 }
 
 a:visited { color: #dd0055 }
+
+@media screen and (min-width: 580px){
+	html {
+		padding: 40px;
+	}
+
+	img {
+		margin: 0;
+	}
+}
