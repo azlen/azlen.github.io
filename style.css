@@ -21,9 +21,7 @@ img {
 	line-height: 1.5;
 }
 
-h1, h2 { margin-top: 0 }
-
-h1 { font-size: 20pt }
+h1 { margin: 0; font-size: 20pt }
 h2 { font-size: 13pt; }
 
 .grey { color: #999; }
@@ -31,6 +29,10 @@ h2 { font-size: 13pt; }
 a { color: #ff0077 }
 
 a:visited { color: #dd0055 }
+
+.padded-list li:not(:last-child) {
+	padding-bottom: 15px;
+}
 
 @media screen and (min-width: 580px){
 	html {

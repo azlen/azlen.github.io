@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Azlen Elza \\ Template</title>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-48179034-6"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'UA-48179034-6');
+	</script>
+
+	<!-- favicons -->
+	<link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png">
+	<link rel="manifest" href="/favicons/manifest.json">
+	<link rel="mask-icon" href="/favicons/safari-pinned-tab.svg" color="#ff0066">
+	<link rel="shortcut icon" href="/favicons/favicon.ico">
+	<meta name="msapplication-config" content="/favicons/browserconfig.xml">
+	<meta name="theme-color" content="#ff0066">
+
+	<!-- meta tags -->
+	<meta charset="UTF-8"></meta>
+	<meta name=viewport content="width=device-width, initial-scale=1">
+
+	<!-- stylesheet -->
+	<link rel="stylesheet" type="text/css" href="/style.css">
+</head>
+<body>
+	<!-- breadcrumb -->
+	/<a href="/">home</a>/<a href="/projects">projects</a>/<a href="/projects/sprite_generator">sprite_generator</a>
+
+	<!-- header -->
+	<h1>Sprite Generator</h1>
+
+	<i>December, 2015</i>
+
+	<!-- content -->
+
+	<p>Video game sprite generator based on Dave Bollinger's <i><a href="http://davebollinger.org/works/pixelspaceships/">Pixel Spaceships</a></i>.</p>
+
+	<img src="sprite_generator.png" style="max-width:300px"></img>
+
+
+	<h2>Features</h2>
+
+	<ul>
+		<li>Draw template for sprite generation</li>
+		<li>HSL color range picker</li>
+		<li><b>Frame Animation</b></li>
+		<li>X/Y mirroring</li>
+	</ul>
+
+	<img src="spaceships.gif" style="max-width:300px"></img>
+	<i>Example of animation, spaceships</i>
+
+	<p>Fun program I created for sprite generation — mostly in the span of a few days. It's kind-of almost usable, just needs a bit of work to become user-friendly. The most exciting feature is the animation. For this I created a special <i>move tool</i> which lets you move a specific pixel while keeping its state.</p>
+
+	<p>I probably should have finished it to the point where it's actually usable by people other than me. Maybe I will work on it again someday, who knows?</p>
+
+	<p>The main reason this project never got finished was because I <b>hated</b> the color range picker. It is clunky and hard to use.</p>
+
+	<p>I did however create a better color system for the second prototype of this program. There exist color nodes, which can be connected together to form a color range/gradient between nodes. Example:</p>
+
+	<img src="colorexample.png" style="max-width:300px"></img>
+
+	<p>This is easier to use from an <i>artistic</i> point of view if you want a more specific color combination. But this method makes it much more difficult to allow for a full range of colors.</p>
+
+	<p>Anyway, enough ranting. You can <a href="/about/contact">contact me</a> if you have a solution to my color problem or want to nag me into finishing what I started. In the meantime, </p>
+
+	<p>tl;dr: color is hard, I'm a perfectionist.</p>
+
+	<h2>Links</h2>
+
+	<a href="https://azlen.me/Sprite-Generator/" target="_blank">Demo</a> <i class="grey">(good luck!)</i> <br>
+	<a href="https://github.com/azlen/Sprite-Generator" target="_blank">Source Code</a> <br>
+
+
+	<!-- fin -->
+</body>
+</html>
