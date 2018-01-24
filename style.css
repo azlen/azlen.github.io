@@ -1,12 +1,9 @@
 html {
 	padding: 30px 15px;
-
 	font-family: consolas, monaco, courier, "courier new", fixed-width;
 }
 
-body {
-	max-width: 500px;
-}
+body { max-width: 500px }
 
 img {
 	display: block;
@@ -14,10 +11,10 @@ img {
 	width: 100%;
 	max-width: 500px;
 }
+img.small { max-width: 300px }
 
 * {
 	-webkit-font-smoothing: antialiased;
-
 	line-height: 1.5;
 }
 
@@ -27,19 +24,11 @@ h2 { font-size: 13pt; }
 .grey { color: #999; }
 
 a { color: #ff0077 }
-
 a:visited { color: #dd0055 }
 
-.padded-list li:not(:last-child) {
-	padding-bottom: 15px;
-}
+.padded-list li:not(:last-child) { padding-bottom: 15px }
 
 @media screen and (min-width: 580px){
-	html {
-		padding: 40px;
-	}
-
-	img {
-		margin: 0;
-	}
+	html { padding: 40px }
+	img { margin: 0 }
 }
