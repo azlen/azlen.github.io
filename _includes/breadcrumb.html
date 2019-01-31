@@ -1,0 +1,6 @@
+<div>
+    {% assign breadcrumbs = page.url | split: "/" | shift %}
+
+    <!-- breadcrumbs, collapsed to remove whitespace -->
+    /<a href="/">home</a>{% for name in breadcrumbs %}{% assign path = breadcrumbs | slice: 0, forloop.index | join: '/' | prepend: '/' %}/<a href="{{ path }}">{{ name }}</a>{% endfor %}
+</div>
