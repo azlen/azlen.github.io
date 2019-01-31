@@ -8,6 +8,4 @@ description: Experiment in teaching computer program to design business cards.
 ---
 Experiment in teaching a computer program to generate business cards.
 
-![Example Cards](./business_cards_sample.png)
-
-![](/media/2018-08 generative_business_cards example.png)
+![Example Cards](/media/2018-08 generative_business_cards example.png)
