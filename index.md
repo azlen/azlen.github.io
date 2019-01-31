@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Azlen Elza
----
 
+---
 Welcome to my website.
 
 Maybe have a look around?
@@ -11,4 +11,4 @@ Maybe have a look around?
 [Projects](/projects)<br>
 <!--[Sitemap](/sitemap)-->
 
-<!--[Random Page](/random)-->
+[Random Page](/random)
