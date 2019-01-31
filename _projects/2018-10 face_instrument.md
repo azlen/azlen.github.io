@@ -2,7 +2,7 @@
 layout: default
 title: Facial Recognition Musical Instrument
 permalink: "/projects/face_instrument/"
-date: 2018-10
+date: 2018/10
 description: Plays sound based off facial landmark detection using Python and MaxMSP.
 
 ---
