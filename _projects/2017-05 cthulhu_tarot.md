@@ -10,4 +10,4 @@ Tarot deck inspired by the works of [H.P. Lovecraft](https://en.wikipedia.org/wi
 
 Currently in progress; 20/78 cards completed.
 
-![Tarot Card Images](./card_sample.jpeg)
+![Tarot Card Images](/media/2017-05 cthulhu_tarot card_sample.jpeg)
