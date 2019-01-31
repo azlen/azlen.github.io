@@ -21,3 +21,5 @@ fields:
   name: description
   label: description
   default: Enter description here
+pages:
+- _projects/2018-10 face_instrument.md
