@@ -43,8 +43,18 @@ a { color: rgb(255, 51, 146) }
 }
 
 .project-description {
-    white-space: nowrap;
+    //white-space: nowrap;
+    display: none;
+    width: 500px;
+    
     color: #999999;
+}
+
+@media screen and (min-width: 750px){
+	.project-description { 
+        display: inline-block;
+        width: 700px;
+    }
 }
 
 /*
