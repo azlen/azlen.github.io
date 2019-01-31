@@ -23,7 +23,6 @@ fields:
   default: Enter description here
 pages:
 - _projects/2018-08 generative_business_cards.md
-- _projects/2018-10 face_instrument.md
 - _projects/2017-09 interactive_comics.md
 - _projects/2018-02 pattern_generator.md
 - _projects/2017-05 cthulhu_tarot.md
@@ -31,3 +30,4 @@ pages:
 - _projects/2017-12 embol.md
 - _projects/2016-10 nymero.md
 - _projects/2015-12 sprite_generator.md
+- _projects/2018-10 face_instrument.md
