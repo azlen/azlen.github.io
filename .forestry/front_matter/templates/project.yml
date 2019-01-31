@@ -23,3 +23,4 @@ fields:
   default: Enter description here
 pages:
 - _projects/2018-10 face_instrument.md
+- _projects/2018-02 pattern_generator.md
