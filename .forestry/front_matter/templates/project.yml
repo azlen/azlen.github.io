@@ -1,0 +1,23 @@
+---
+label: Project
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: default
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+  default: "/projects/template"
+- type: text
+  name: date
+  label: date
+- type: textarea
+  name: description
+  label: description
+  default: Enter description here
