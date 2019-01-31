@@ -13,7 +13,7 @@ Created 1200+ hand-drawn glyphs combining 2 or more letters (e.g T+F, ls+u), and
 Some examples:
 
 Example #1: True, False
-![True,False; perceptual shift ambigram](./hot-cold.png)
+![True,False; perceptual shift ambigram](/media/2016-03 perceptual_shift True-False.png)
 
 Example #2: hot, cold
-![hot,cold; perceptual shift ambigram](./True-False.png)
+![hot,cold; perceptual shift ambigram](/media/2016-03 perceptual_shift hot-cold.png)
