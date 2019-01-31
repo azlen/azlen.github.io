@@ -1,0 +1,12 @@
+---
+label: Project
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: layout
+  label: layout
+  default: default
+- type: text
+  name: title
+  label: title
