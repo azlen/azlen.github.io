@@ -2,7 +2,7 @@
 layout: default
 title: Sprite Generator
 permalink: "/projects/sprite_generator/"
-date: 12/2015
+date: 2015/12
 description: Video game sprite generator based on Dave Bollinger's Pixel Spaceships.
 
 ---
