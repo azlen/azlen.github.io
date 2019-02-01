@@ -14,5 +14,9 @@ fields:
   name: permalink
   label: permalink
   default: template
+- type: text
+  name: date
+  label: date
+  description: keep this empty to hide the date
 pages:
 - 404.md
