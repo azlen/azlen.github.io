@@ -1,0 +1,12 @@
+---
+label: Page
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: template
+  label: template
+  default: default
+- type: text
+  name: title
+  label: title
