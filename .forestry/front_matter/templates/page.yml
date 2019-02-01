@@ -15,4 +15,4 @@ fields:
   label: permalink
   default: template
 pages:
-- 404-not-found.md
+- 404.md
