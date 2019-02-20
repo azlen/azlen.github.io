@@ -2,7 +2,7 @@
 layout: default
 title: Generative Business Cards
 permalink: "/projects/generative_business_cards/"
-date: 2018/08
+date: 2018/09
 description: Experiment in teaching computer program to design business cards.
 
 ---
