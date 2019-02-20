@@ -12,5 +12,5 @@ Made for the /r/proceduralgeneration subreddit logo challenge. Created by splici
 
 ## Links
 
-[Github](https://github.com/azlen/snoo-generator)<br>  
+[Github](https://github.com/azlen/snoo-generator)  
 [Demo](https://azlen.me/snoo-generator)
