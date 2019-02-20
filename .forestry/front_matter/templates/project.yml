@@ -22,6 +22,7 @@ fields:
   label: description
   default: Enter description here
 pages:
+- _projects/reddit-logo-generator.md
 - _projects/2018-08 generative_business_cards.md
 - _projects/2017-09 interactive_comics.md
 - _projects/2018-02 pattern_generator.md
