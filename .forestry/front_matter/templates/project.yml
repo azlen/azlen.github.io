@@ -1,7 +1,6 @@
 ---
 label: Project
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: layout
@@ -22,6 +21,7 @@ fields:
   label: description
   default: Enter description here
 pages:
+- _projects/language-learning-application.md
 - _projects/2018-08 generative_business_cards.md
 - _projects/reddit-logo-generator.md
 - _projects/2015-12 sprite_generator.md
