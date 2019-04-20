@@ -18,4 +18,5 @@ fields:
   label: date
   description: keep this empty to hide the date
 pages:
+- _posts/more-than-one-type-of-mnemonic.md
 - 404.md
