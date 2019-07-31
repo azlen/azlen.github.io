@@ -11,7 +11,7 @@ email: contact@azlen.me
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://azlen.me" # the base hostname & protocol for your site
+url: "https://azlen.github.io" # the base hostname & protocol for your site
 twitter_username: azlenelza
 github_username:  azlen
 
